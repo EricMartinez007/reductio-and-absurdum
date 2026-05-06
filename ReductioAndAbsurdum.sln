@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReductioAndAbsurdum", "ReductioAndAbsurdum.csproj", "{D23A1A2D-E8E7-9F24-5DE4-ECC8DC7694C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23A1A2D-E8E7-9F24-5DE4-ECC8DC7694C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23A1A2D-E8E7-9F24-5DE4-ECC8DC7694C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23A1A2D-E8E7-9F24-5DE4-ECC8DC7694C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23A1A2D-E8E7-9F24-5DE4-ECC8DC7694C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6482248A-E217-4F09-8446-6906B56DB294}
+	EndGlobalSection
+EndGlobal
